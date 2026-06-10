@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ShopNest UI Automation Suite" verbose="1">
+    <test name="Login Tests">
+        <classes>
+            <class name="Test.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Form Authentication Tests">
+        <classes>
+            <class name="Test.FormAuthTest"/>
+        </classes>
+    </test>
+    <test name="Dynamic Controls Tests">
+        <classes>
+            <class name="Test.DynamicControlsTest"/>
+        </classes>
+    </test>
+    <test name="File Upload Tests">
+        <classes>
+            <class name="Test.FileUploadTest"/>
+        </classes>
+    </test>
+</suite>

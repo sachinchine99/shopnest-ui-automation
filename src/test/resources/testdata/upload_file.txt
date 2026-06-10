@@ -1,0 +1,4 @@
+ShopNest QA Automation — File Upload Test Fixture
+==================================================
+This file is used by FileUploadTest to verify the upload feature.
+Author: Sachin — QA Automation Engineer

@@ -1,0 +1,28 @@
+# Maven build output
+target/
+*.class
+
+# Test reports
+Extent Report/
+allure-results/
+allure-report/
+test-output/
+
+# Screenshots
+screenshots/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+logs/
