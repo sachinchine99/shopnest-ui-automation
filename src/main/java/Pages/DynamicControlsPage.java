@@ -1,11 +1,8 @@
 package Pages;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
 import utilities.UIActions;
-
 /**
  * DynamicControlsPage — handles async DOM changes triggered by button clicks.
  * After every button click, we wait for the #message element to appear —
