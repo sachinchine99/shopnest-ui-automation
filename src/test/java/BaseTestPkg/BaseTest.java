@@ -1,10 +1,7 @@
 package BaseTestPkg;
-
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-
 import utilities.Driver;
-
 
 public class BaseTest extends Driver {
 
