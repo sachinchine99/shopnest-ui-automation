@@ -1,5 +1,4 @@
 package utilities;
-
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
@@ -13,7 +12,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.ITestResult;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.time.Duration;
@@ -134,7 +132,7 @@ public class Driver {
             test.fail("Screenshot capture failed: " + e.getMessage());
         }
     }
-
+    
     // ─── Helper: Base URL get karo ────────────────────────────────────────────
 
     public static String getBaseUrl() {
