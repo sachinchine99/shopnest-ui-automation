@@ -1,5 +1,4 @@
 package Test;
-
 import BaseTestPkg.BaseTest;
 import Pages.DynamicControlsPage;
 import org.testng.Assert;
