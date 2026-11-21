@@ -2,6 +2,7 @@
 target/
 *.class
 
+
 # Test reports
 Extent Report/
 allure-results/
