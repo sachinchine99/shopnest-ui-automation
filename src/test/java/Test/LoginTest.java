@@ -1,5 +1,4 @@
 package Test;
-
 import BaseTestPkg.BaseTest;
 import Pages.LoginPage;
 import Pages.SecureAreaPage;
